@@ -1,7 +1,7 @@
 ---
 title : 'Messi manda y no tu banda'
 date : 2024-12-10T11:39:22+01:00
-draft  false
+draft : false
 ---
 
 # Lionel Messi: El Genio del Fútbol Mundial
