@@ -1,0 +1,17 @@
+baseURL = "http://BrunoGonT.github.io/"
+languageCode = "es"
+title = "Mi super blog Hugo"
+theme = "ananke"
+
+[menu]
+[[menu.main]]
+[[menu.main]]
+identifier = 'page'
+name = 'Primera pagina...'
+url = '/posts/'
+[[menu.main]]
+identifier = 'posts'
+name = 'Publicaciones'
+url = '/posts/'
+[params]
+social = true

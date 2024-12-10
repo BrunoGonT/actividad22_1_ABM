@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primer-Posts on actividad22_2_ABM</title>
+    <link>http://localhost:1313/primer-post/</link>
+    <description>Recent content in Primer-Posts on actividad22_2_ABM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 09:45:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/primer-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post De Bruno</title>
+      <link>http://localhost:1313/primer-post/post-de-bruno/</link>
+      <pubDate>Fri, 29 Nov 2024 09:45:28 +0100</pubDate>
+      <guid>http://localhost:1313/primer-post/post-de-bruno/</guid>
+      <description>&lt;h2 id=&#34;qué-es-cisco-packet-tracer&#34;&gt;¿Qué es Cisco Packet Tracer?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./packet-tracert.png&#34; alt=&#34;Interfaz de Packet Tracert&#34;&gt;&#xA;&lt;strong&gt;Cisco Packet Tracer&lt;/strong&gt; es una herramienta de simulación de redes desarrollada por Cisco Systems. Es ampliamente utilizada en el ámbito educativo para enseñar conceptos de redes y practicar configuraciones sin necesidad de hardware físico.&lt;/p&gt;&#xA;&lt;p&gt;Packet Tracer permite a los usuarios diseñar y configurar redes simuladas que imitan el comportamiento de redes reales. Esto lo convierte en una herramienta ideal para aprender sobre protocolos, dispositivos y la arquitectura de redes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

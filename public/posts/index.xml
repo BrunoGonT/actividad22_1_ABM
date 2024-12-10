@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi super blog Hugo</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mi super blog Hugo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 29 Nov 2024 09:47:04 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post De Bruno</title>
+      <link>http://localhost:1313/posts/segundo-post/</link>
+      <pubDate>Fri, 29 Nov 2024 09:47:04 +0100</pubDate>
+      <guid>http://localhost:1313/posts/segundo-post/</guid>
+      <description>&lt;h2 id=&#34;qué-es-wireshark&#34;&gt;¿Qué es Wireshark?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./Logo-de-Wireshark.png&#34; alt=&#34;Interfaz de Whireshark&#34;&gt;&#xA;&lt;strong&gt;Wireshark&lt;/strong&gt; es una de las herramientas más populares y potentes para el análisis y monitoreo de redes. Es un analizador de protocolos de código abierto que permite capturar y visualizar el tráfico de una red en tiempo real, lo que lo convierte en una herramienta esencial para profesionales de redes y seguridad.&lt;/p&gt;&#xA;&lt;p&gt;Wireshark es utilizado para diagnosticar problemas de red, analizar paquetes, aprender sobre protocolos y detectar posibles amenazas o actividades sospechosas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post De Bruno</title>
+      <link>http://localhost:1313/posts/primer-post/</link>
+      <pubDate>Fri, 29 Nov 2024 09:45:28 +0100</pubDate>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <description>&lt;h2 id=&#34;qué-es-cisco-packet-tracer&#34;&gt;¿Qué es Cisco Packet Tracer?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./packet-tracert.png&#34; alt=&#34;Interfaz de Packet Tracert&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cisco Packet Tracer&lt;/strong&gt; es una herramienta de simulación de redes desarrollada por Cisco Systems. Es ampliamente utilizada en el ámbito educativo para enseñar conceptos de redes y practicar configuraciones sin necesidad de hardware físico.&lt;/p&gt;&#xA;&lt;p&gt;Packet Tracer permite a los usuarios diseñar y configurar redes simuladas que imitan el comportamiento de redes reales. Esto lo convierte en una herramienta ideal para aprender sobre protocolos, dispositivos y la arquitectura de redes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
